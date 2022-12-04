@@ -1,0 +1,21 @@
+{
+  "name": "1",
+  "displayName": "MoYoussef",
+  "description": "Made By Mo Youssef in 1min",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mo Youssef",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mo Youssef-color-theme.json"
+      }
+    ]
+  }
+}
